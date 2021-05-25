@@ -4,8 +4,8 @@ the word "TYPE" */
 #include<stdio.h>
 int main()
 {
-int num = 100;
-char letter = 'A';
+TYPE num = 100;
+TYPE letter = 'A';
 /* Printing num and charecter value */
 printf("The number is %d\n",num);
 printf("The letter is %c\n",letter);
