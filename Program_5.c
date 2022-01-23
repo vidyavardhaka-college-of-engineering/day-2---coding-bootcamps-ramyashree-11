@@ -10,9 +10,12 @@
 int main()
 {
     int a, b, temp;
+    printf("Enter the value a and b");
     scanf("%d%d", &a, &b);
-
     //Write your code here
+    temp=a;
+    a=b;
+    b=temp;
     
     
 
